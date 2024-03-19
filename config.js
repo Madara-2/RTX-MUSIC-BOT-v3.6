@@ -11,10 +11,7 @@ module.exports = {
   errorLog: "",
 
 
-  sponsor: {
-    status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
-  },
+  
 
   voteManager: {
     status: false,
